@@ -9,56 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 山东科技大学/ 测绘工程专业/软件工程专业(辅修)/大学本科            2020.09--2024.06
+主修课程： 误差与测量平差基础 、 大地测量学基础 、 GNSS 原理与应用、 海洋潮汐与水位控制 、 海图制图、 水声学 原理、 Li DAR 原理及应用、 海底地形测量 、 数字地形测量学 、 Python 程序设计、 C ++程序设计等课程。
+辅修课程： 软件工程概论 、Java 程序设计 、 数据结构 、 离散数学 、 Web 开发与应用 、 计算机网络等课程。
+* 中国矿业大学/测绘科学与技术专业/硕士研究生在读                    2024.09--至今
 
-Work experience
+实习经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*数字地形测量学实习                                                                                                     2021.09--2021.10
+  *职务 ：组长
+  *主持小组内行动计划 、 测量工作和内业数据处理工作 ， 熟练操作光学水准仪 、 全站仪及其附件。 对获得数据进行 简易平差、绘制 CASS 图像等工作 ，撰写实习报告。
+*大地测量学和GNSS综合实习                                                                                               2022.06--2022.07
+  *职务 ：组长
+  *主持小组内行动计划 、 测量 、 路线 、 内业数据处理等工作 ，熟练掌握 GNSS 静态测量方法、 RTK 动态测量方法， 以及更高等级要求的水准测量和导线测量。 内业中使用 SGO、 COSA 等软件处理数据 ，最后 CASS 成图工作等。
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+在校项目经历
+======
+*山东省大学生创新创业大赛项目(国家级)                                                                                     2022.07--2023.07
+  *职务 ：研究人员
+  *项目名称 ：基于 LiDAR 技术的电力线树障智能检测
+  *主要工作： 单木分割算法实现 、 林木风险评估报告的设计制作 ， 使用 python 语言进行相关软件的开发以及算法实 现。
+*山东省大学生创新创业大赛项目                                                                                             2021.11
+  *职务 ：组长
+  *项目名称 ：海上平台变形监测及 GUI 设计
+  *主要工作 ：统筹兼顾 ，编写文件以及相关 GUI 设计 ，设计出较为完备的 GUI 界面。
+  
+技能荣誉
+=======
+*CET4： 557 分、 CET6： 514 分、 “麦格天泓杯 ”测绘创新技能大赛二等奖、 山东省大学生科技创新大赛校级三等奖、山东省大学生科技节竞赛省级二等奖。
+*2024考研成绩：报考专业： 测绘科学与技术（081600） 总分： 323 英语一： 78 专业课： 119 数学一： 62 政治： 64
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
