@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 我目前是[中国矿业大学](https://www.cumt.edu.cn/)的研究生，研究领域为导航与位置服务。本科期间，我在[山东科技大学](https://www.sdust.edu.cn/)完成了测绘工程专业的学士学位，期间表现出对导航及相关学科的浓厚兴趣。在本科阶段，我参与了多个科研项目，这些经历坚定了我继续深造的决心。
 
