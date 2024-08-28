@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+我目前是[中国矿业大学](https://www.cumt.edu.cn/)的研究生，研究领域为导航与位置服务。本科期间，我在[山东科技大学](https://www.sdust.edu.cn/)完成了测绘工程专业的学士学位，期间表现出对导航及相关学科的浓厚兴趣。在本科阶段，我参与了多个科研项目，这些经历坚定了我继续深造的决心。
+
+在学术研究中，我主要关注低轨卫星定轨领域，致力于探索导航中的精确定位技术及其在实际应用中的挑战与机遇。我的研究方法包括定量分析、实验研究与理论建模，并注重通过跨学科合作来获得全面的研究成果。
+
+目前，我正在王潜心老师的指导下进行低轨卫星定轨的研究。该项目旨在提高低轨卫星的定轨精度，从而增强导航与位置服务系统的整体性能。我希望通过本次研究能够为导航领域的发展贡献力量，并为学术界和行业提供有价值的见解。
+
+在未来的研究生学习过程中，我计划进一步深入探索低轨卫星定轨及其相关技术，并期待与学界同仁进行广泛的学术交流和合作。同时，我也希望能将学术研究与实践相结合，将所学知识应用于解决实际问题，为社会发展做出积极贡献。
 
 A data-driven personal website
 ======
